@@ -1,2 +1,2 @@
 # cuisine-similarity
-I got very interested in the yummly dataset hosted by <a href="https://www.kaggle.com/c/whats-cooking">kaggle</a>, and wanted to study the similarities or differencec between different cuisines. This is my attempt in analytically understanding this. Please check the `cuisines.ipynb` for analysis.
+I got very interested in the yummly dataset hosted by <a href="https://www.kaggle.com/c/whats-cooking">kaggle</a>, and wanted to study the similarities between different cuisines. This is my attempt in analytically understanding this, and assigning a similarity score between cuisines. Please check the `cuisines.ipynb` for the analysis.
